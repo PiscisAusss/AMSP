@@ -1,0 +1,20 @@
+
+# Configurări locale
+.env
+.env.local
+
+# Fișiere temporare
+*.tmp
+*.temp
+
+# Fișiere log
+*.log
+
+# Directoare generate automat
+generated/
+cache/
+build/
+
+# Fișiere specifice sistemului de operare
+Thumbs.db
+.DS_Store
