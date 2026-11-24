@@ -10,3 +10,7 @@ How to run:
 3. To edit the text or colors, open index.html in VS Code.
 
 Note: The app-store/download button is a demo because Localy is a concept app and has not been published.
+
+======================================================================================================================================
+
+ Lorem ipsum dolor sit amet consecutur amiscios emit
